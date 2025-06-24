@@ -28,3 +28,17 @@
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHu]()
+
+
+---
+
+### 📊 GitHub Stats
+
+![Rajvardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajvardhanT7747&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajvardhanT7747&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajvardhanT7747&theme=react-dark)
+
