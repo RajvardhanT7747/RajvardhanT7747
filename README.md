@@ -1,4 +1,3 @@
-# Rajvardhan-Tipugade
 <h1 align="center">Hi 👋, I'm Rajvardhan Tipugade</h1>
 <h3 align="center">Aspiring Software Developer | Passionate about Open Source & Backend Engineering</h3>
 
