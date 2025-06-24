@@ -38,7 +38,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajvardhanT7747&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=RajvardhanT7747&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajvardhanT7747&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajvardhanT7747&theme=react-dark&hide_border=true)
+
 
