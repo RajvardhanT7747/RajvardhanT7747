@@ -5,7 +5,7 @@
 👨‍💻 About Me : <br>🎯 3rd Year Engineering Student<br>🌱 Currently focused on MERN Stack, Java Backend, and DevOps Tools<br>🚀 Learning every day. Always building something new!
 
 # 💼 Experience
-👨‍💻 **Upcoming Summer Intern – Mastercard (2025)**  
+👨‍💻 **Upcoming Summer Intern – Mastercard (2026)**  
 🔹 Role: Software Engineering Intern 
 
 💡 **Software Development Intern – Bluestock Fintech (2024)**  
