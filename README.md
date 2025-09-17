@@ -8,7 +8,7 @@
 👨‍💻 **Upcoming Summer Intern – Mastercard (2026)**  
 🔹 Role: Software Engineering Intern 
 
-💡 **Software Development Intern – Bluestock Fintech (2024)**  
+💡 **Software Development Intern – Bluestock Fintech (2025)**  
 🔹 Worked on Backend engineering, system design, and backend APIs  
 
 ## 🌐 Socials:
