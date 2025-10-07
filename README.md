@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Passionate about Open Source & Backend Engineering</h3>
 
 # 💫 About Me:
-👨‍💻 About Me : <br>🎯 3rd Year Engineering Student<br>🌱 Currently focused on MERN Stack, Java Backend, and DevOps Tools<br>🚀 Learning every day. Always building something new!
+👨‍💻 About Me : <br>🎯 3rd Year Engineering Student<br>🌱 Currently focused on Java Backend, and System Design <br>🚀 Learning every day. Always building something new!
 
 # 💼 Experience
 👨‍💻 **Upcoming Summer Intern – Mastercard (2026)**  
