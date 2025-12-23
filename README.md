@@ -89,19 +89,6 @@ public class RajvardhanTipugade {
   <img src="https://github-profile-trophy.vercel.app/?username=RajvardhanT7747&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 💡 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔐 **Auth Microservice** | Scalable authentication system with JWT & OAuth | Java, Spring Security, Redis |
-| 📊 **Analytics Dashboard** | Real-time data visualization platform | React, Node.js, MongoDB |
-| 🌐 **API Gateway** | Rate-limited gateway with load balancing | Express, Redis, NGINX |
-| 🛒 **E-Commerce Backend** | Distributed system with payment integration | Spring Boot, PostgreSQL, Kafka |
-
-</div>
-
 ## 📊 Coding Journey
 
 ```text
@@ -112,14 +99,6 @@ Python         ████████████░░░░░░░░░�
 SQL            ███████████████████░░░   80%
 ```
 
-## 🎯 2025 Goals
-
-- [x] Complete 500+ LeetCode problems
-- [ ] Contribute to 10+ open source projects
-- [ ] Build a distributed system from scratch
-- [ ] Master microservices architecture
-- [ ] Launch a production-ready SaaS product
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -129,7 +108,7 @@ SQL            ███████████████████░░�
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajvardhantipugade559@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajvardhan_Tipugade_07/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajvardhantc5cl/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1twjP36uJP-_j36o8RHZo5vrnNS-hqDQQ/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18y7apaX0n6rT_p7cwzOaidSpdjZj26fU/view?usp=drive_link)
 
 </div>
 
