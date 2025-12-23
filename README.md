@@ -1,128 +1,141 @@
 <div align="center">
 
-# Rajvardhan Tipugade  
+# 🚀 Rajvardhan Tipugade  
 ### Backend Developer | SDE Intern | Problem Solver
 
-Building reliable backend systems with performance, clarity, and real-world impact.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Engineering+%7C+Real-Time+Systems;Node.js+%7C+Java+Spring+Boot+%7C+MongoDB;500%2B+DSA+Problems+Solved;Former+SDE+Intern+%40+Bluestock;Mastercard+CFC+2.0+Finalist" />
 
-[Portfolio](https://rajvardhan7747.netlify.app/) • 
-[LinkedIn](https://linkedin.com/in/rajvardhan-tipugade-346309286/) • 
-[GitHub](https://github.com/RajvardhanT7747) • 
-[LeetCode](https://leetcode.com/u/Rajvardhan_Tipugade_07/) • 
-[Email](mailto:rajvardhantipugade559@gmail.com)
+<p align="center">
+  <a href="https://rajvardhan7747.netlify.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/rajvardhan-tipugade-346309286/">LinkedIn</a> •
+  <a href="mailto:rajvardhantipugade559@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/Rajvardhan_Tipugade_07/">LeetCode</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=RajvardhanT7747&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **backend-focused engineering student** pursuing **B.E. in Information Technology**  
-from **Pune Institute of Computer Technology (CGPA: 9.02/10)**.
+🎓 B.E. Information Technology @ **PICT Pune** (CGPA: **9.02 / 10**)  
+💼 Former **SDE Intern @ Bluestock (Fintech)**  
+🏆 **Mastercard CFC 2.0 Finalist** — Upcoming Summer Intern  
 
-I enjoy building **scalable backend systems**, designing **REST APIs**, and working on  
-**real-time applications** where performance and correctness matter.
+I specialize in **backend development** with hands-on experience in:
 
-- 💼 Former **SDE Intern @ Bluestock (Fintech)**
-- 🏆 **Mastercard CFC 2.0 Finalist** (Upcoming Summer Intern)
-- 🧠 Strong foundation in **DSA, OOP, and backend engineering**
-- 📌 Solved **500+ DSA problems** across LeetCode, Codeforces & GFG
+- Building **real-time systems**
+- Designing **scalable REST APIs**
+- Optimizing **database performance**
+- Applying **DSA & OOP** to production code
+
+I believe strong fundamentals + clean code > buzzwords.
 
 ---
 
 ## 💼 Experience
 
-### Software Development Engineer Intern  
-**Bluestock — Remote**  
-*Jan 2025 – Feb 2025*
+### 🏢 Software Development Engineer Intern — Bluestock (Remote)
+**Jan 2025 – Feb 2025**
 
-- Developed a **real-time cryptocurrency alert system** tracking **50+ assets**
-- Built a **Node.js + Express backend** with optimized MongoDB queries
-- Reduced database latency by **~30%**
-- Implemented **WebSockets** for instant alerts with **<200ms delivery**
-- Worked with production APIs, debugging workflows, and performance tuning
+- Built a **real-time cryptocurrency alert system** monitoring **50+ assets**
+- Developed **Node.js + Express backend** with MongoDB
+- Reduced DB latency by **~30%** through query optimization
+- Implemented **WebSockets** for instant alerts (**<200ms latency**)
+- Worked with production APIs, debugging and performance tuning
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔔 Cryptocurrency Alert System  
+### 🔔 Cryptocurrency Alert System
 **Node.js | Express | MongoDB | WebSockets**
 
-- Real-time alerting system for cryptocurrency price conditions
-- Used **WebSockets** for live data streaming and low-latency notifications
-- Improved backend response time by **~30%**
-
-🔗 Live Demo | GitHub Repo
+- Real-time crypto price alerting platform
+- Live streaming using **WebSockets**
+- Backend response time improved by **~30%**
 
 ---
 
-### 🏨 HeavenQuest – Room Booking Platform  
+### 🏨 HeavenQuest – Room Booking Platform
 **Node.js | Express | MongoDB | EJS | Passport.js**
 
-- Full-stack room booking platform for listing, searching, and reserving properties
-- Implemented **secure authentication & authorization** using Passport.js
-- Designed scalable REST APIs and optimized database interactions
-
-🔗 Live Demo | GitHub Repo
+- Full-stack booking platform for rooms & properties
+- Secure authentication using **Passport.js**
+- Scalable REST APIs with optimized DB access
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Java, C++, Python, JavaScript, C
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### Backend & Frameworks
-- Node.js, Express
-- Java Spring Boot
-- REST APIs, Microservices, Authentication
+### 🧠 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Databases
-- MongoDB, MySQL
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 
-### Tools & Platforms
-- Git, Maven, Linux
-- WebSockets
+---
 
-### Computer Science Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajvardhanT7747&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=RajvardhanT7747&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🏅 **Mastercard CFC 2.0 Finalist** — Selected as Upcoming Summer Intern
-- 🎯 **Event Lead – DataQuest, Pulzion 2025**
-- 🧩 **Backend Lead – Pulzion 2025** (multi-event backend systems)
-- ⚽ **Event Sub-Lead – Football, Pulzion 2024**
-- 📈 **9.75 CGPA** in First Year (2024)
+🏅 **Mastercard CFC 2.0 Finalist**  
+📈 **9.75 CGPA** — First Year  
+🧠 **500+ DSA Problems Solved**
+
+🎯 Event Lead — DataQuest, Pulzion 2025  
+🧩 Backend Lead — Pulzion 2025  
+⚽ Event Sub-Lead — Football, Pulzion 2024  
 
 ---
 
 ## 📜 Certifications
 
-- **Stanford Machine Learning Specialization – Coursera**  
-  *(Supervised Learning, Advanced Learning Algorithms, Unsupervised Learning)*
+🎓 **Stanford Machine Learning Specialization — Coursera**  
+(Supervised, Advanced & Unsupervised Learning)
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 Currently Looking For
 
-I am actively seeking opportunities where I can:
+- Backend / Software Engineering Internships
+- Roles with **real production exposure**
+- Teams that value **fundamentals & clean design**
 
-- Work on **real production backend systems**
-- Learn from **strong engineering teams**
-- Apply **DSA and system thinking** to real-world problems
-- Grow as a **backend / software engineer**
-
-📩 Feel free to reach out — I’m always open to meaningful conversations and collaborations.
+📩 Let’s connect and build something meaningful.
 
 ---
 
 <div align="center">
 
-**“Good software is built with clarity, not shortcuts.”**
+**“Strong systems are built with fundamentals, not shortcuts.”**
 
 </div>
