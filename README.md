@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Rajvardhan Tipugade  
-### Backend Developer | SDE Intern | Problem Solver
+### Backend Developer | SDE | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Engineering+%7C+Real-Time+Systems;Node.js+%7C+Java+Spring+Boot+%7C+MongoDB;500%2B+DSA+Problems+Solved;Former+SDE+Intern+%40+Bluestock;Mastercard+CFC+2.0+Finalist" />
 
