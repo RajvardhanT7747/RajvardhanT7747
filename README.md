@@ -1,9 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Rajvardhan%20Tipugade&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Systems%20%7C%20Problem%20Solver&descAlignY=60"/>
+</p>
 
-# Rajvardhan Tipugade  
-### Backend Engineer | Software Development | Problem Solving
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Backend+Engineering+%7C+Distributed+Systems;Node.js+%7C+Java+Spring+Boot+%7C+MongoDB;500%2B+DSA+Problems+Solved;Former+SDE+Intern+%40+Bluestock;Upcoming+Summer+Intern+%40+Mastercard" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Upcoming%20Summer%20Intern-Mastercard-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-green?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <a href="https://rajvardhan7747.netlify.app/">Portfolio</a> •
@@ -12,108 +15,128 @@
   <a href="https://leetcode.com/u/Rajvardhan_Tipugade_07/">LeetCode</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RajvardhanT7747&style=for-the-badge&color=blueviolet"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajvardhanT7747&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Backend-focused Software Engineer** who enjoys building **reliable, scalable, and real-world systems**.
+I am a **Backend-focused Software Engineer** who enjoys building **scalable, reliable, real-world systems**.
 
 🎓 **B.E. Information Technology**, PICT Pune  
 📊 **CGPA:** 9.02 / 10  
-💼 **Former SDE Intern @ Bluestock (Fintech)**  
+💼 **Former SDE Intern — Bluestock (Fintech)**  
 🏆 **Mastercard CFC 2.0 Finalist**  
 🚀 **Upcoming Summer Intern @ Mastercard**
 
-My engineering philosophy is simple:
-
-> **Strong fundamentals, clean architecture, and systems that scale.**
-
-I actively work on backend development, data structures, and real production-grade projects—not just demos.
+> I believe strong fundamentals and clean system design matter more than buzzwords.
 
 ---
 
 ## 💼 Experience
 
+<table>
+<tr>
+<td width="70%">
+
 ### Software Development Engineer Intern — Bluestock (Fintech)  
 **Remote | Jan 2025 – Feb 2025**
 
-- Designed and implemented a **real-time cryptocurrency alert system** tracking **50+ assets**
-- Built a **scalable Node.js + Express backend** with MongoDB
+- Built a **real-time cryptocurrency alert system** monitoring **50+ assets**
+- Developed a scalable **Node.js + Express backend** with MongoDB
 - Optimized database queries, reducing latency by **~30%**
-- Implemented **WebSocket-based real-time notifications** with sub-200ms delivery
-- Worked with production APIs, debugging performance and reliability issues
-- Gained hands-on experience with backend scalability and system design trade-offs
+- Implemented **WebSockets** for real-time alerts (**<200ms latency**)
+- Worked on production APIs, debugging and performance tuning
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://img.shields.io/badge/Domain-Fintech-blue"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/System-Real--Time-orange"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔔 Real-Time Cryptocurrency Alert System  
 **Node.js | Express | MongoDB | WebSockets**
 
-- Backend system for real-time crypto price monitoring
-- Event-driven architecture using **WebSockets**
-- Optimized API and DB access for low-latency performance
-- Designed for scalability and real-world usage
+- Event-driven backend architecture  
+- Real-time price streaming & alerts  
+- Optimized DB access for low latency  
 
----
+</td>
+
+<td width="50%">
 
 ### 🏨 HeavenQuest — Room Booking Platform  
 **Node.js | Express | MongoDB | EJS | Passport.js**
 
-- Full-stack booking platform with secure authentication
-- RESTful API design with clean separation of concerns
-- Integrated **Passport.js** for authentication & authorization
-- Focused on backend correctness and data consistency
+- RESTful backend APIs  
+- Secure authentication & authorization  
+- Scalable booking system design  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Java  
-- C++  
-- Python  
-- JavaScript  
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ### Backend & Databases
-- Node.js, Express.js  
-- Java Spring Boot  
-- MongoDB, MySQL  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools & Platforms
-- Git & GitHub  
-- Linux  
-- Maven  
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajvardhanT7747&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajvardhanT7747&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=RajvardhanT7747&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=RajvardhanT7747&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Achievements & Leadership
 
 - 🏅 **Mastercard CFC 2.0 Finalist**
-- 🧠 **500+ Data Structures & Algorithms problems solved**
+- 🧠 **500+ DSA Problems Solved**
 - 📈 **9.75 CGPA** — First Year
 
-### Leadership Roles
+**Leadership**
 - Backend Lead — Pulzion 2025  
 - Event Lead — DataQuest, Pulzion 2025  
 - Event Sub-Lead — Football, Pulzion 2024  
@@ -123,22 +146,22 @@ I actively work on backend development, data structures, and real production-gra
 ## 📜 Certifications
 
 - **Stanford Machine Learning Specialization — Coursera**  
-  *(Supervised Learning, Advanced Learning Algorithms, Unsupervised Learning)*
+  *(Supervised, Advanced & Unsupervised Learning)*
 
 ---
 
-## 🎯 Currently Seeking
+## 🎯 Currently Looking For
 
-- Backend / Software Engineering Internships
-- Roles with **real production systems exposure**
-- Teams that value **engineering fundamentals and clean design**
-
-📩 If you’re building something meaningful, let’s connect.
+- Backend / Software Engineering Internships  
+- Roles with **real production exposure**  
+- Teams that value **engineering fundamentals**
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>“Great systems are built with fundamentals, not shortcuts.”</i>
+</p>
 
-**“Great systems are built with fundamentals, not shortcuts.”**
-
-</div>
+<p align="center">
+  📩 Let’s connect and build something meaningful.
+</p>
