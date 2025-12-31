@@ -27,9 +27,12 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 
 🎓 **B.E. Information Technology**, PICT Pune  
 📊 **CGPA:** 9.02 / 10  
-💼 **Former SDE Intern — Bluestock (Fintech)**  
 🏆 **Mastercard CFC 2.0 Finalist**  
+💼 **Developer Intern — Innothoughts Systems Pvt Ltd**  
 🚀 **Upcoming Summer Intern @ Mastercard**
+💼 **Former SDE Intern — Bluestock Fintech**  
+
+
 
 > I believe strong fundamentals and clean system design matter more than buzzwords.
 
