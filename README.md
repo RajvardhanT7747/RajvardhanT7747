@@ -29,8 +29,8 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 📊 **CGPA:** 9.02 / 10  
 🏆 **Mastercard CFC 2.0 Finalist**  
 💼 **Developer Intern — Innothoughts Systems Pvt Ltd**  
-🚀 **Upcoming Summer Intern @ Mastercard**
-💼 **Former SDE Intern — Bluestock Fintech**  
+🚀 **Upcoming Summer Intern @ Mastercard**  
+💼 **Ex-SDE Intern — Bluestock Fintech**  
 
 
 
