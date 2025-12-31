@@ -30,6 +30,7 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 🏆 **Mastercard CFC 2.0 Finalist**  
 💼 **Developer Intern — Innothoughts Systems Pvt Ltd**  
 🚀 **Upcoming Summer Intern @ Mastercard**
+
 💼 **Former SDE Intern — Bluestock Fintech**  
 
 
