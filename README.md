@@ -23,16 +23,14 @@
 
 ## 👋 About Me
 
-I am a **Backend-focused Software Engineer** who enjoys building **scalable, reliable, real-world systems**.
+I am a **Backend-focused Software Engineer** who enjoys building **scalable, reliable, production-grade systems**.
 
 🎓 **B.E. Information Technology**, PICT Pune  
 📊 **CGPA:** 9.02 / 10  
 🏆 **Mastercard CFC 2.0 Finalist**  
 💼 **Developer Intern — Innothoughts Systems Pvt Ltd**  
 🚀 **Upcoming Summer Intern @ Mastercard**  
-💼 **Ex-SDE Intern — Bluestock Fintech**  
-
-
+💼 **Ex-SDE Intern — Bluestock (Fintech)**  
 
 > I believe strong fundamentals and clean system design matter more than buzzwords.
 
@@ -40,105 +38,113 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="70%">
-
 ### Software Development Engineer Intern — Bluestock (Fintech)  
 **Remote | Jan 2025 – Feb 2025**
 
 - Built a **real-time cryptocurrency alert system** monitoring **50+ assets**
-- Developed a scalable **Node.js + Express backend** with MongoDB
-- Optimized database queries, reducing latency by **~30%**
-- Implemented **WebSockets** for real-time alerts (**<200ms latency**)
-- Worked on production APIs, debugging and performance tuning
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/Domain-Fintech-blue"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/System-Real--Time-orange"/>
-
-</td>
-</tr>
-</table>
+- Developed scalable **Node.js + Express backend services**
+- Optimized MongoDB queries, reducing latency by **~30%**
+- Implemented **WebSockets** for instant alerts (**<200ms delivery time**)
+- Worked on **production APIs**, debugging workflows, and performance tuning
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🔔 Real-Time Cryptocurrency Alert System  
 **Node.js | Express | MongoDB | WebSockets**
-
 - Event-driven backend architecture  
 - Real-time price streaming & alerts  
-- Optimized DB access for low latency  
-
-</td>
-
-<td width="50%">
+- Low-latency system design with optimized DB access  
 
 ### 🏨 HeavenQuest — Room Booking Platform  
 **Node.js | Express | MongoDB | EJS | Passport.js**
-
 - RESTful backend APIs  
 - Secure authentication & authorization  
-- Scalable booking system design  
+- Scalable booking system with optimized queries  
 
-</td>
-</tr>
-</table>
+### 🏗️ Enterprise Backend System  
+**Java | Spring Boot | Microservices | PostgreSQL**
+- RESTful backend services using layered architecture  
+- CRUD APIs with validation & global exception handling  
+- PostgreSQL integration using Spring Data JPA & Hibernate  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🧩 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 
 ---
 
-## 📊 GitHub Analytics
+### ⚙️ Backend & Architecture
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RajvardhanT7747&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
+- RESTful API Design  
+- Microservices Architecture  
+- Authentication & Authorization  
+- WebSockets & Real-Time Systems  
+- Layered Architecture & Clean Code  
 
-<p align="center">
-  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=RajvardhanT7747&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+---
+
+### 🧪 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?style=for-the-badge&logo=docker)
+
+- Agile / Scrum  
+- Jira  
+- API Debugging & Performance Tuning  
+
+---
+
+### 🧠 Core CS Fundamentals
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Operating Systems (Basics)
+- Multithreading & Concurrency
+- Exception Handling
+- Networking Fundamentals
+
+---
+
+### 🧠 Problem Solving
+- **500+ DSA Problems Solved**
+- Platforms: LeetCode, Codeforces, GeeksforGeeks
+- Focus on optimization, edge cases & clean logic
+
+---
+
+### 🌱 Familiar With
+- React
+- Angular
+- Machine Learning Fundamentals  
+  *(Stanford ML Specialization – Coursera)*
 
 ---
 
 ## 🏆 Achievements & Leadership
-
-- 🏅 **Mastercard CFC 2.0 Finalist**
-- 🧠 **500+ DSA Problems Solved**
+- 🏅 Mastercard CFC 2.0 Finalist
 - 📈 **9.75 CGPA** — First Year
+- 🧠 500+ DSA Problems Solved
 
 **Leadership**
 - Backend Lead — Pulzion 2025  
@@ -147,15 +153,7 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 
 ---
 
-## 📜 Certifications
-
-- **Stanford Machine Learning Specialization — Coursera**  
-  *(Supervised, Advanced & Unsupervised Learning)*
-
----
-
 ## 🎯 Currently Looking For
-
 - Backend / Software Engineering Internships  
 - Roles with **real production exposure**  
 - Teams that value **engineering fundamentals**
