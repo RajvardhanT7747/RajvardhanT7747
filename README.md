@@ -63,11 +63,7 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 - Secure authentication & authorization  
 - Scalable booking system with optimized queries  
 
-### 🏗️ Enterprise Backend System  
-**Java | Spring Boot | Microservices | PostgreSQL**
-- RESTful backend services using layered architecture  
-- CRUD APIs with validation & global exception handling  
-- PostgreSQL integration using Spring Data JPA & Hibernate  
+
 
 ---
 
@@ -110,9 +106,8 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 ![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?style=for-the-badge&logo=docker)
 
-- Agile / Scrum  
-- Jira  
-- API Debugging & Performance Tuning  
+- Software Engineering 
+- API Debugging
 
 ---
 
@@ -131,13 +126,6 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 - Platforms: LeetCode, Codeforces, GeeksforGeeks
 - Focus on optimization, edge cases & clean logic
 
----
-
-### 🌱 Familiar With
-- React
-- Angular
-- Machine Learning Fundamentals  
-  *(Stanford ML Specialization – Coursera)*
 
 ---
 
