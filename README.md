@@ -26,7 +26,7 @@
 I am a **Backend-focused Software Engineer** who enjoys building **scalable, reliable, production-grade systems**.
 
 🎓 **B.E. Information Technology**, PICT Pune  
-📊 **CGPA:** 9.02 / 10  
+📊 **CGPA:** 8.9 / 10  
 🏆 **Mastercard CFC 2.0 Finalist**  
 💼 **Developer Intern — Innothoughts Systems Pvt Ltd**  
 🚀 **Upcoming Summer Intern @ Mastercard**  
@@ -49,21 +49,20 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🔔 Real-Time Cryptocurrency Alert System  
-**Node.js | Express | MongoDB | WebSockets**
-- Event-driven backend architecture  
-- Real-time price streaming & alerts  
-- Low-latency system design with optimized DB access  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajvardhanT7747&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanT7747&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-### 🏨 HeavenQuest — Room Booking Platform  
-**Node.js | Express | MongoDB | EJS | Passport.js**
-- RESTful backend APIs  
-- Secure authentication & authorization  
-- Scalable booking system with optimized queries  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajvardhanT7747&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajvardhanT7747&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
@@ -126,7 +125,6 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 - Platforms: LeetCode, Codeforces, GeeksforGeeks
 - Focus on optimization, edge cases & clean logic
 
-
 ---
 
 ## 🏆 Achievements & Leadership
@@ -149,9 +147,9 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 ---
 
 <p align="center">
-  <i>“Great systems are built with fundamentals, not shortcuts.”</i>
+  <i>"Great systems are built with fundamentals, not shortcuts."</i>
 </p>
 
 <p align="center">
-  📩 Let’s connect and build something meaningful.
+  📩 Let's connect and build something meaningful.
 </p>
