@@ -36,16 +36,6 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 
 ---
 
-## 💼 Experience
-
-### Software Development Engineer Intern — Bluestock (Fintech)  
-**Remote | Jan 2025 – Feb 2025**
-
-- Built a **real-time cryptocurrency alert system** monitoring **50+ assets**
-- Developed scalable **Node.js + Express backend services**
-- Optimized MongoDB queries, reducing latency by **~30%**
-- Implemented **WebSockets** for instant alerts (**<200ms delivery time**)
-- Worked on **production APIs**, debugging workflows, and performance tuning
 
 ---
 
